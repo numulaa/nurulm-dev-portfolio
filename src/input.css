@@ -10,9 +10,9 @@ body {
   font-family: "Poppins";
 }
 
-@media (max-width: 576px) {
+@media (max-width: 773px) {
   body {
     background-size: 500px;
-    background-position: 50px -50px;
+    background-position: 230px 500px;
   }
 }
