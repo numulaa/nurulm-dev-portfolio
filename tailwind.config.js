@@ -10,7 +10,7 @@ module.exports = {
         xl: "1440px",
       },
       colors: {
-        veryDarkPurple: "#74486",
+        veryDarkPurple: "#784486",
         darkPurple: "#9576cd",
         brightPurple: "#9a83c4",
         brightPurpleLight: "#b99fe8",

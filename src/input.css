@@ -13,6 +13,6 @@ body {
 @media (max-width: 773px) {
   body {
     background-size: 500px;
-    background-position: 230px 500px;
+    background-position: -130% 13%;
   }
 }
