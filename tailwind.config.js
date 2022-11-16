@@ -9,6 +9,9 @@ module.exports = {
         lg: "976px",
         xl: "1440px",
       },
+      boxShadow: {
+        sm: "0px 10px 8px -2px rgba(0,0,0,0.57)",
+      },
       colors: {
         veryDarkPurple: "#784486",
         darkPurple: "#9576cd",
